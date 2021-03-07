@@ -1,0 +1,45 @@
+article{
+    height: 80vh;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+article > div{
+    width: 40%;
+    height: 40%;
+    margin-right: 50px;
+}
+.div1{
+    background: coral;
+}
+.div2{
+    background: darkcyan;
+}
+.div3{
+    background: aquamarine;
+}
+article > p{
+    width: 40%;
+}
+.div2, .div3{
+    opacity: 0;
+}
+
+
+
+/*애니메이션*/
+.animate{
+    animation: fadeIn 1s forwards ease-in;
+    transition: 2s ease-in-out;
+}
+@keyframes fadeIn{
+    0%{opacity: 0;}
+    100%{opacity: 1;}
+}
+.area1.animate, .area2.animate, .area3.animate{
+    transform: translateY(-3em);
+}
+.div2.animate, .div3.animate{
+    transform: translateY(-3em);
+}
