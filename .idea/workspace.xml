@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23767835-4ec8-43bc-8181-6971e9aed34f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -51,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615110336367</updated>
-      <workItem from="1615110337505" duration="3448000" />
+      <workItem from="1615110337505" duration="3741000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1615111981267</created>
@@ -60,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615111981268</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="스크롤 이벤트 js 추가">
+      <created>1615113831670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615113831670</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,20 +73,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="스크롤 이벤트 js 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="스크롤 이벤트 js 추가" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="89" key="CommitChangelistDialog2" timestamp="1615111980658">
+    <state x="700" y="67" key="CommitChangelistDialog2" timestamp="1615113830881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="653" y="89" key="CommitChangelistDialog2/0.0.1920.1040/1920.174.1600.860@0.0.1920.1040" timestamp="1615111980658" />
+    <state x="700" y="67" key="CommitChangelistDialog2/0.0.1920.1040/1920.174.1600.860@0.0.1920.1040" timestamp="1615113830881" />
     <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1615111819621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.174.1600.860@0.0.1920.1040" timestamp="1615111819621" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1615111982605">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1615113835535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.174.1600.860@0.0.1920.1040" timestamp="1615111982605" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.174.1600.860@0.0.1920.1040" timestamp="1615113835535" />
   </component>
 </project>
