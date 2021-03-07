@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23767835-4ec8-43bc-8181-6971e9aed34f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615110336367</updated>
-      <workItem from="1615110337505" duration="3741000" />
+      <workItem from="1615110337505" duration="4387000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1615111981267</created>
@@ -65,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615113831670</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="스크롤 이벤트 페이지 이동 추가">
+      <created>1615114196000</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615114196000</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,20 +81,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <MESSAGE value="스크롤 이벤트 js 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="스크롤 이벤트 js 추가" />
+    <MESSAGE value="스크롤 이벤트 페이지 이동 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="스크롤 이벤트 페이지 이동 추가" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="700" y="67" key="CommitChangelistDialog2" timestamp="1615113830881">
+    <state x="700" y="67" key="CommitChangelistDialog2" timestamp="1615114195337">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="700" y="67" key="CommitChangelistDialog2/0.0.1920.1040/1920.174.1600.860@0.0.1920.1040" timestamp="1615113830881" />
+    <state x="700" y="67" key="CommitChangelistDialog2/0.0.1920.1040/1920.174.1600.860@0.0.1920.1040" timestamp="1615114195337" />
     <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1615111819621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.174.1600.860@0.0.1920.1040" timestamp="1615111819621" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1615113835535">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1615114196991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.174.1600.860@0.0.1920.1040" timestamp="1615113835535" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.174.1600.860@0.0.1920.1040" timestamp="1615114196991" />
   </component>
 </project>

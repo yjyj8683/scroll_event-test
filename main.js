@@ -15,3 +15,10 @@ $(function(){
     }
   });
 });
+
+function open1(){
+  window.open('page2.html');
+}
+function open2(){
+  window.open('page2.html', '_blank');
+}

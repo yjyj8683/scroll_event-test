@@ -13,7 +13,7 @@
   <header></header>
   <main>
     <article class="area1 ">
-      <div class="div1">1페이지 입니다.</div>
+      <div class="div1">1 페이지 입니다.</div>
       <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         Dolorum illo labore maiores molestias nisi possimus ullam!
         Ducimus eos, itaque magni modi perferendis quisquam quos,
@@ -21,7 +21,9 @@
     </article>
 
     <article class="area2">
-      <div class="div2">2</div>
+      <div class="div2">2
+        <input type="button" onclick="open1()" value="window.open('page2.html');" />
+      </div>
       <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         Dolorum illo labore maiores molestias nisi possimus ullam!
         Ducimus eos, itaque magni modi perferendis quisquam quos,
@@ -31,6 +33,7 @@
     <article class="area3">
       <div class="div3">
         <a href="page2.html">페이지 이동</a>
+        <input type="button" onclick="open2()" value="window.open('page2.html', '_blank');새 탭" />
       </div>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         Dolorum illo labore maiores molestias nisi possimus ullam!
