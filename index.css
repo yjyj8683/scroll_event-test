@@ -1,0 +1,39 @@
+article{
+    /*width: 1200px;*/
+    height: 80vh;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+article > div{
+    width: 40%;
+    height: 40%;
+    margin-right: 50px;
+}
+.div1{
+    background: red;
+}
+.div2{
+    background: yellow;
+}
+.div3{
+    background: blue;
+}
+article > p{
+    width: 40%;
+
+}
+
+/*애니메이션*/
+.animate{
+    animation: fadeIn 1s forwards ease-in;
+    transition: 2s ease-in-out;
+}
+@keyframes fadeIn{
+    0%{opacity: 0;}
+    100%{opacity: 1;}
+}
+article.animate{
+    transform: translateY(-5em);
+}
